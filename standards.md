@@ -11,7 +11,7 @@ Is there a clear problem statement that this would solve, for a significant numb
 
 Is there a good starting point, such as a clear solution, or a set of competing solutions?
 
-3) Stakeholder Engagement
+3) Stakeholder Commitment
 
 Do we have the right stakeholders ready to commit to the work, including implementers who would deploy the feature, and individuals willing to write, review, and test the specification?
 
