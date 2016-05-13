@@ -10,9 +10,9 @@ In the context of this workshop, the following general criteria are relevant to 
 
 For standardization at W3C specifically, the focus is on the Web, in three main areas:
 
-* client-side (browser-based) features, like markup languages, JavaScript APIs, or user-facing features
+* **Client-side** (browser-based) features, like markup languages, JavaScript APIs, or user-facing features
   * this is W3C's main focus
-* data and formats, such as interchange formats, vocabularies/ontologies, and languages to manipulate data
+* **data and formats**, such as interchange formats, vocabularies/ontologies, and languages to manipulate data
   * _note that this area is usually treated with some skepticism by browser makers_
-* communication protocols 
+* **communication protocols** 
   * W3C does this much more rarely, typically only when there's a corresponding client-side API, and usually in partnership with IETF
