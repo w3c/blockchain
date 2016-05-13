@@ -12,7 +12,7 @@ For standardization at W3C specifically, the focus is on the Web, in three main 
 
 * **Client-side** (browser-based) features, like markup languages, JavaScript APIs, or user-facing features
   * this is W3C's main focus
-* **data and formats**, such as interchange formats, vocabularies/ontologies, and languages to manipulate data
+* **Data and formats**, such as interchange formats, vocabularies/ontologies, and languages to manipulate data
   * _note that this area is usually treated with some skepticism by browser makers_
-* **communication protocols** 
+* **Communication protocols** 
   * W3C does this much more rarely, typically only when there's a corresponding client-side API, and usually in partnership with IETF
