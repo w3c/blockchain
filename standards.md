@@ -16,3 +16,4 @@ For standardization at W3C specifically, the focus is on the Web, in three main 
   * _note that this area is usually treated with some skepticism by browser makers_
 * **Communication protocols** 
   * W3C does this much more rarely, typically only when there's a corresponding client-side API, and usually in partnership with IETF
+
