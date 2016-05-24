@@ -43,27 +43,4 @@ For standardization at W3C specifically, the focus is on the Web, in three main 
 
 IRT #3 above, it would be possible to create a foundation which defined pluggable component interfaces allowing the creation of custom blockchains with known best practice implementations to fit a given need. Most of these interfaces could theoretically be loosely defined today, and multiple implementations could readily be made available.
 
-## Running List of Potential Candidates Areas for Standard Interoperation
 
-The following list of potential candidate areas needing or greatly benefiting from standard interoperability was adapted and annotated by Dazza Greenwood from proposed workshop lightning talk topics proposed ([Issue #3](https://github.com/w3c/blockchain/issues/3) by Dan Buchner:
-
-
-**Core technical components of blockchains and their overlap with the Web, such as:**
-
-* Blockchain APIs, such as JavaScript or REST APIs **Perfect, as is**
-* Blockchain primitives such as
-  -  transaction initiation" **Maybe something like [IBM Event Ledger](https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/W0e2f07da6e3a_404f_9eee_07686ea89ced) could be configured and applied to initiate transactions**
-  - key signing, **Perfect** and 
-  - wallet management **Sure, in principle, especially in contexts like web-based digital wallet transaction processing or status checking that requires some Blockchain read, prove or write but really depends on what wallet functions and what sorts of "management**"
-* Ledger interchange formats and protocols **Perfect**
-* Smart contracts and conditional execution contexts  **This item seems to become less relevant to the workshop the deeper one ventures into domain specific contexts ... which is where one must delve to distinguish whether a condition has been met by an event (or lack of one). For this item, the sweet spot may be standard messaging interfaces and/or standard message formats but not business processes, logic or rules.  
-
-**Application areas, such as:**
-
-* Identity, including:
-  - privacy, 
-  - security, and 
-  - confidentiality factors  **To focus on areas relevant to the workshop, maybe one approach would be worth tracking to specific Blockchain enabled identity-related functional requirements from Fair Information Practices (eg as codified under EU law or US FERPA, HIPAA, FCRA, etc) and NSTIC/IDESG "Trust Framework" certification and assessment criteria**
-* Rights expression and licensing **This would be a great target for standardization.  Especially with respect to title ownership rights to so-called "intangible property" and other digital assets**
-* Decentralized processing, computing, and storage infrastructure" **Applications and data existing across distributed systems require standard interoperation...the three items are very broad**
-* Voting systems **This is a good one"
