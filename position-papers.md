@@ -4,7 +4,7 @@ The Chairs are using your position papers as the basis for selecting topics and 
 
 ## Timeline for Submission and Review
 
-The Chairs need your papers to be submitted by **Friday May, 27 at 11 AM PT** (the upcoming Program Committee call). Reviews will be completed by **Monday, June 6**.
+The Chairs need your papers to be submitted by **Friday, June 9** (the upcoming Program Committee call). Reviews will be completed by **Monday, June 13**.
 
 ## Review Criteria
 
